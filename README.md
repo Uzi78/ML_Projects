@@ -6,6 +6,9 @@ This repository serves as a collection of machine learning projects aimed at imp
 
 ## Projects
 1. Student Math Score Prediction
-Description: Predicts student math scores based on various factors such as study time, previous grades, and family background.
+   
+Predicts student math scores based on various factors such as study time, previous grades, and family background.
+
 Techniques Used: Linear Regression, Data Preprocessing, Feature Selection.
+
 Status: Completed.
