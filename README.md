@@ -12,3 +12,11 @@ Predicts student math scores based on various factors such as study time, previo
 Techniques Used: Linear Regression, Data Preprocessing, Feature Selection.
 
 Status: Completed.
+
+2. Student Reading Score Prediction
+
+Predicts student reading scores based on various factors such as study time, previous grades, and family background.
+
+Techniques Used: Linear Regression, Data Preprocessing, Feature Selection, Cross-Validation.
+
+Status: Completed.
