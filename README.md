@@ -26,7 +26,15 @@ Recommends anime based on genres and user preferences using a content-based filt
 
    **Status**: Completed.
 
-3. **Student Math Score Prediction**
+3. **Iris Flower Classification System**  
+
+   Classifies iris flowers into species based on sepal and petal measurements.  
+
+   **Techniques Used**: Logistic Regression, SVM, Naive Bayes, Data Preprocessing.  
+
+   **Status**: Completed.
+
+4. **Student Math Score Prediction**
    
    Predicts student math scores based on various factors such as study time, previous grades, and family background.
 
@@ -34,7 +42,7 @@ Recommends anime based on genres and user preferences using a content-based filt
 
    **Status**: Completed.
 
-4. **Student Reading Score Prediction**
+5. **Student Reading Score Prediction**
    
    Predicts student reading scores based on various factors such as study time, previous grades, and family background.
 
