@@ -6,17 +6,13 @@ This repository serves as a collection of machine-learning projects aimed at imp
 
 ## Projects
 
-1. **Anime Recommendation System**
+1 **Anime Recommendation System**  
 
-Recommends anime based on genres and user preferences using a content-based filtering approach. This project involves data preprocessing, exploratory data analysis, visualization, and building a recommendation engine using the TF-IDF vectorization technique.
+   Recommends anime based on genres and user preferences using a content-based filtering approach.  
 
- **Techniques Used**
-- Content-Based Filtering
-- TF-IDF Vectorization
-- Cosine Similarity
+   **Techniques Used**: Content-Based Filtering, TF-IDF Vectorization, Cosine Similarity.  
 
-**Status**: Completed.
-
+   **Status**: Completed.
 
 2. **Handwritten Digit Classification**
    
